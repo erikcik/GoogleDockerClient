@@ -1,0 +1,219 @@
+{
+  "detailedTitle": "MiChef Cafe Restoran",
+  "restaurantTitle": "MiChef Cafe Restoran",
+  "ratingOverall": "4,4",
+  "ratingOverallNumber": "(112)",
+  "restaurantWebsiteLink": null,
+  "locationAddress": "Bahçeşehir 2. Kısım, Şht. Asteğmen Furkan Işik Bulvari, 34488 Başakşehir/İstanbul",
+  "openDates": [
+    { "day": "Pazartesi", "hours": "08:30–00:00" },
+    { "day": "Salı", "hours": "08:30–00:00" },
+    { "day": "Çarşamba", "hours": "08:30–00:00" },
+    { "day": "Perşembe", "hours": "08:30–00:00" },
+    { "day": "Cuma", "hours": "08:30–00:00" },
+    { "day": "Cumartesi", "hours": "09:00–00:00" },
+    { "day": "Pazar", "hours": "09:00–00:00" }
+  ],
+  "images": [
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipNDsG6fgUWDoYK9CYTMDmQAG8r-fg0lDaocnVvL=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipM6SwbbvuBCOqEE7vf6FgAevjAWw_mMh5EhrNbp=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipNR3ghexkHLidEZba5dz0ZCnoKNoLaw3nC6x0XK=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipMDoCFDdyNJO6SOwdmGLHbBJ-PXq-EWwcvj0YIA=w141-h176-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipO8JbvJRSGyOOw_AB8xoPneFNSenD_A83b-SnvA=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipNfHtSVysuCKN83tz-hbU6jcxsTt-d_c4R4HfAr=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipPvT9w2T6zHI8ypnHFA8_NSUOkXfXkIlhpywPKT=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipO2ZMs0Xf1mUor7IBiL17-_gjdWVr07jKRktNmp=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipOd5-jxp17tI7jUTeQowNbGWEAxE6JM5KdL1cWT=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipMF1Q3H3Q9Kex-HHYY7spSWSxq-6GI-wgLaObqd=w141-h141-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipOHe8inFOp6meY6U74Fcfk7Pl9d9NBw0dxKRmyn=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipPoti0LUOF5EIsw-gov8r8RquI9K88Lx4ROnSdX=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipOyL72Lx1AfhW-M4LZuZpekTDoIhSH9uysgyY7_=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipOLln1DjLXz6OM-IpLlPjEWI2LThyPV8m8Yy71a=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipO_GekHBRo98uGR3ulStomClVj-rBZY7CWvSpRd=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipM_hWwMeMtw-pHWYwz65nvP91niPeIzb5aXxUaj=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipMY1q4wnWEYOJ4VsVKovZhuUTeFS-8lsBs_Yx1A=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipPNon9_zcEQAB6sTIooq-lueUB8aiXv_pQNNxu8=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipMv6Q4vt6t6rntZdHFEkrPDmIK19HFUq1Mhk-az=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    }
+  ],
+  "reviews": [
+    {
+      "ratingPerson": "Abdullah Polat",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 3,
+      "ratingContent": "Mekan konumu uzak arkadaşların evi orada olmasa imkanı yok ki gidelim. Siteler için yapılmış bir yer.Oturma alanları göründüğünden daha az ama büyük dev masa mevcut ona denk geldik o rahattı. Nargilesi idare eder. İdare eder dememin sebebi 1 marpuçları plastik 2 közleri sıkıştırma köz. Nerde o eski meşe odunu közleri. Zaten aynı közle aynı tütünle evde aynı nargileyi yapıyorum.Havadar mekan onda sıkıntı yokYemekleri güzeldi.Servis iyi ve hızlıydı.Denk gelmediği sürece tek seferlik bir aşktı bir daha olmaz sanırım"
+    },
+    {
+      "ratingPerson": "orhan kiriş",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Mükemml bir başlangıç tabağı. Çıtır tavuk ve  patates👍👍 inanilmaz bir sos. Kendi soslari bayildim. Ancak terlikli corapli bir calişan biraz hijyen konusunda beni endişelendirdi beniYiyecek: 5/5  |  Hizmet: 3/5  |  Atmosfer: 5/5"
+    },
+    {
+      "ratingPerson": "Albina Eminova",
+      "ratingPersonType": "3 yorum",
+      "ratingValue": 1,
+      "ratingContent": "8:30 dan açık yazıyor, biz 9:00 geldik kapalıydı. Aradım açmadılar. 9:30 daha aradım, cevap yoktu. Çok üzüldüm, arkadaşim başka yerden geldi kahvaltıya, rezil oldum ben."
+    },
+    {
+      "ratingPerson": "ALİ KARAKAY",
+      "ratingPersonType": "2 yorum",
+      "ratingValue": 1,
+      "ratingContent": "El değiştirdi eski tadı yok"
+    },
+    {
+      "ratingPerson": "Sude Çakar",
+      "ratingPersonType": "1 yorum",
+      "ratingValue": 5,
+      "ratingContent": "Neden 1 aydır kapalı :( nargile yok gidecek yer yok lütfen açın artık ya 😕"
+    },
+    {
+      "ratingPerson": "Ilhami Ciklakalyoncu",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Temiz, kaliteli ürünleri her şeyden önemlisi müşterilerine gösterdiği saygı çok önemli. İşletme sahiplerini ve çalışanlarını tebrik ediyorum.Yiyecek: 5/5  |  Hizmet: 5/5  |  Atmosfer: 5/5"
+    },
+    {
+      "ratingPerson": "Nur muhamet",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 1,
+      "ratingContent": "Jumbo karides sipariş ettim ama çok küçük gelmiş ! Ve hiç taze değil ve lezzetli değil 😕Size tavsiye etmiyorum"
+    },
+    {
+      "ratingPerson": "Yeliz GÜLER",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Yemekler çok lezzetli. Personel güler yüzlü"
+    },
+    {
+      "ratingPerson": "Ferdi Basel (Ferdi Başel)",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 4,
+      "ratingContent": "Lezzetli kaliteli hızlı servis fiyatlar diğer yerlere göre makulVejetaryen seçeneklerGünün her saati kahvaltı seçeneği olması muhteşem OtoparkPark sorunu yok Çocuklara uygunlukÇocuklu aileye uygun yerleri var loca kısımları harika Tekerlekli sandalyeye uygunlukDüz giriş ve rampa mevcut "
+    },
+    {
+      "ratingPerson": "Naciye Babayigit",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Yemekleri lezzetli güzel sıcak bir ortam servis gayet güzel"
+    },
+    {
+      "ratingPerson": "Serhat Bayraktar",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Yemekleri ve Servisi gayet iyi. Tavsiye ederim"
+    },
+    {
+      "ratingPerson": "Aslan NAJOK",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 1,
+      "ratingContent": "The food Is very bad .Yemekler artık iyi değil her zaman gibi ."
+    },
+    {
+      "ratingPerson": "bayram bağdan",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Güzel hoş bir yer ilgi alaka güzel ürünler güzel"
+    },
+    {
+      "ratingPerson": "Ceyhun Güney",
+      "ratingPersonType": "5 yorum",
+      "ratingValue": 1,
+      "ratingContent": "Haftalardır kapalı ama burda açık yazıyor"
+    },
+    {
+      "ratingPerson": "Ahmet Guzel",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Ürünler kaliteli ve hizmet gayet güzel!"
+    },
+    {
+      "ratingPerson": "Zeynep Topcu",
+      "ratingPersonType": "2 yorum",
+      "ratingValue": 5,
+      "ratingContent": "Kaliteli,sicak ,samimi,lezzetli  restoran..."
+    },
+    {
+      "ratingPerson": "Ercan Kutlu",
+      "ratingPersonType": "19 yorum",
+      "ratingValue": 5,
+      "ratingContent": "Bahçekent'imize ayrı bir değer kattı."
+    },
+    {
+      "ratingPerson": "pldarkown",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Güleryüzlü personel uygun fiyat"
+    },
+    {
+      "ratingPerson": "İsmail Çelik",
+      "ratingPersonType": "67 yorum",
+      "ratingValue": 5,
+      "ratingContent": "Bu bölge için gayet güzel"
+    },
+    {
+      "ratingPerson": "burhan şenel",
+      "ratingPersonType": "4 yorum",
+      "ratingValue": 5,
+      "ratingContent": "Harika bir hizmet vermektedir"
+    },
+    {
+      "ratingPerson": "Nusret Ozates",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Lezzet harika. Teşekkürler."
+    },
+    {
+      "ratingPerson": "OĞUZ ONAT",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Harika lezzet harika mekân"
+    },
+    {
+      "ratingPerson": "Ay teknik Klima kombi soğutma servisi",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Mükemmel tavsiye ederim"
+    }
+  ]
+}

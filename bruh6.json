@@ -1,0 +1,243 @@
+{
+  "detailedTitle": "Faruk Güllüoğlu BAHÇEKENT",
+  "restaurantTitle": "Har Kanat Bahçeşehir",
+  "ratingOverall": "4,2",
+  "ratingOverallNumber": "(263)",
+  "restaurantWebsiteLink": null,
+  "locationAddress": "Bahçeşehir 2. Kısım, BAHÇEKENT, Mercedes Bulvari Ticaret merkezi D:1. Blok no:22/1B, 34488 Başakşehir/İstanbul",
+  "openDates": [
+    {
+      "day": "Pazartesi",
+      "hours": "07:00–00:00"
+    },
+    {
+      "day": "Salı",
+      "hours": "07:00–00:00"
+    },
+    {
+      "day": "Çarşamba",
+      "hours": "07:00–00:00"
+    },
+    {
+      "day": "Perşembe",
+      "hours": "07:00–00:00"
+    },
+    {
+      "day": "Cuma",
+      "hours": "07:00–00:00"
+    },
+    {
+      "day": "Cumartesi",
+      "hours": "07:00–00:00"
+    },
+    {
+      "day": "Pazar",
+      "hours": "09:00–00:00"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipPLKw0Kh6No63OdqaLqOVxDohUvlpLOJmhq4-ls=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipOQyCgq_qtqxXvAuXb_LbuFs3uOgsCZkiv1oYQH=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipNpzBDaU_TdEM7SzthHc9Bcx2fkD25TIxlXfGHr=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipPvmAASn3PnhctBF-gODNUiOEdvfkk74S7tNP4E=w141-h235-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipMQnyBxgik7HC4IEhUxLpYKcdroOHKXILqoqJmT=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipPvKPPVyrjJ1M5a3uUrrAvzFndUMyO3hwew-ga3=w141-h141-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipPac3sbBh6Gdx_RkafHtYH7thCFX5bqO4eL5fQC=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipNZgg2rhZ5aVQFmTFtXivT4h_TLmJM9MeZCVnul=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipOQ9vAeKEp0QgB95adIKXp3Fl5u4dWpQBrKXEv0=w141-h235-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipPucI2Ef2oD45c1PZFtYPSIgLwRGwdqCuG69DPn=w141-h176-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipPxYg624ltj8VaCB0IvqiNi4wKnGEwFN3rMIGwr=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipMcvdB4-6lQVW7Lfxy2yGN5dT8WVPu33wnCjzxM=w141-h176-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipNRh1l_ZUR0Z8XIdpTPubji6rhPxKBg7iU7DVlw=w141-h141-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipMty2IM5xnDdBjelLVfdhscqyHNdujEXthFlDQu=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipM5NNM2hJnUIZsMm3I-RIFCQ9a2QB2o1GaEWuEU=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipOhXfa2i0TeL-O-ytGaDni-f15QzDWORSDJq6jw=w141-h235-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipPALPrVErhwDIaSuiMawC0ZSsV56iUjbaX-4nfF=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipPiuQVZC8wL5RHguKH4y95Oqyugxs-9CEie7QYN=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipNiCRum0VGD6djOYEqz5XSdqMVbSX32iQdOnq00=w141-h101-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipMW5IAe4Ywod5lSLWm5abkq_3uxf9P6e2JAaAHc=w141-h176-n-k-no-nu"
+    },
+    {
+      "url": "https://lh5.googleusercontent.com/p/AF1QipMWdaaumpK_lorLtG09YH110jkH9mBt-U7qX0RX=w141-h101-n-k-no-nu"
+    }
+  ],
+  "reviews": [
+    {
+      "ratingPerson": "Beste Beyza Bal",
+      "ratingPersonType": "39 yorum",
+      "ratingValue": 3,
+      "ratingContent": "Ortamı atmosfer ilgi alaka güzel ancak yemekler çok beklenilen seviyesinde değil maalesef. Yağlı kara cok iyi değil ama adana kebap daha iyi bir seçim olabilir. İçli köftesini beğendik. En çok pastırmalı humus güzeldi. Meze çok çeşitli ancak kendine has güzel bir meze bulamadık. Gavurdağı bol cevizli olması güzeldi. Tatlı olarak katmer söyledik gerçekten ekmek gibiydi. Ayrıca yemek fişi kesmelerini talep ettim ancak kabul edilmediYiyecek: 3/5  |  Hizmet: 5/5  |  Atmosfer: 5/5"
+    },
+    {
+      "ratingPerson": "Erdi Karakütük",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "İçeri adım attığımız andan ayrılana kadar kaliteli vakit geçirdik. Şık bir dekor, keyifli bahçesi, seçkin mezeleri, et&kebap çeşitleri ile 4x4 lük işletme. Kokteyl sevenlere de mutlaka denemelerini öneririmYiyecek: 5/5  |  Hizmet: 5/5  |  Atmosfer: 5/5Önerilen yemeklerLahmacunPark yeriYeterli park yeri var"
+    },
+    {
+      "ratingPerson": "GÖKSEN SELMİN ARIKAN",
+      "ratingPersonType": "4 yorum",
+      "ratingValue": 1,
+      "ratingContent": "10.02.2024 tarihinde ogleden sonra ic mekanda rezervasyon yaparak 3 kisi aile olarak gittik. Otopark imkani ibb tesis sahasinda mevcut, mekanin tasarimi cok guzel ama kis icin klima olanaklari yetersiz. Cam mekan olmasindan kaynakli cok soguktu ic mekan, geri bildirim vermemize ragmen cozum uretilmedi, polar ya da sicak icecek alternatifi teklif edilmedi. Kalabalik bir musteri yogunlugu yoktu. Qr menu disinda menuye erisim mevcut degildi. Kuver servis ucreti menuye yansitilmisti, lakin buna ragmen bahsis beklentisi servis personeli tarafindan asikar davranislarla belli edildi. Kuver ucret mantigini algiladiklarini dusunmuyorum. Servis icerigi kalitesi yuksek lakin servis akis hizi tatmin edici degildi. Siparis icerigine dair, musteri geri bildirim saglasa da hatirlatma gerekliligi mevcuttu çünkü talep edildigi usulle getirilmemisti.Bence harkanat kaliteli bir mekan beklentisini sadece dis gorunus olarak karsilamaktadir.Yiyecek: 5/5  |  Hizmet: 2/5  |  Atmosfer: 1/5"
+    },
+    {
+      "ratingPerson": "Sinan Kocamanoglu",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "İlk defa geldiğimiz mekanda personelin rezervasyonumuz olmamasına rağmen ilgisi alakası ve yer ayarlama konusundaki hassasiyeti takdire şayandı... kesinlikle rahatımı ve güzel vakit geçirmemiz için ellerinden geleni yaptılar....  bizd3n önceki yorumlara binaen kanat olayına girmedik bu konuda yorum yapmayacağım... mezeler kesinlikle farklı yorumlanmış ve son derece başarılıydı... garsonumuz Hüseyin bey  restaurantın full dolu olmasına rağmen 1 dakika bile ilgi ve alakasını eksik etmedi mezeler ara sıcaklar kesinlikle çok güzeldi ...Kebaplar şişeler de iyiydi çok memnun kaldıkYiyecek: 5/5  |  Hizmet: 5/5  |  Atmosfer: 5/5Önerilen yemeklerLahmacunPark yeriYeterli park yeri varPark yeri seçenekleriÜcretli park yeriÇocuklara uygunlukÇocuklar için uygun ve ilgili personel geniş bir çocuk parkı ve ilgili bir personel sürekli çocukların başında ..."
+    },
+    {
+      "ratingPerson": "Kenan BOZKUS",
+      "ratingPersonType": "3 yorum",
+      "ratingValue": 1,
+      "ratingContent": "1.750 tl ye aç kalıp mahcup olduğum iftar,Doymadigimiz takdirde ilave isteyebileceğimizi teyit etmeye rağmen,etlerin sayılı olduğu soylendiYiyecek: 1/5  |  Hizmet: 1/5  |  Atmosfer: 1/5"
+    },
+    {
+      "ratingPerson": "Ece Demirkan",
+      "ratingPersonType": "1 yorum",
+      "ratingValue": 1,
+      "ratingContent": "Öncelikle burayı tercih etmemin nedeni biz yemek yerden çocuğumda oyun alanında oynasın, sözde oyun ablası eşliğinde, kızımı içeri koyduk orda bir görevliye oyun ablası olup olmadığını sordum kendileri var dediler, çünkü oyun ablasının yemeğe gittiğini bilen hiç kimse yok, her hangi bir yazı falan hiç bir şey yok, kızım kaydırakta kayarken çocuğun biri kızımı itmiş. ve kızım sağ taraf duvar olmakla birlikte zemine düşmüş, personel arası iletişim eksik sözde bir oyun ablası var, kesinlikle güvenmeyin, o an oyun ablası olsaydı bir şey değişirmiydi sanmıyorum, sürekli gidip geliyor umrunda değil.Buraya ilk defa gitmedim bunuda belirtmek isterim bir daha tercih edermiyim asla ve herkese yaşadığımı anlatacağım. Herkes görsün orda bir oyun ablası sözde var ama yok.Yiyecek: 1/5  |  Hizmet: 1/5  |  Atmosfer: 1/5"
+    },
+    {
+      "ratingPerson": "Şükran Kartal",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Haftanın 1 akşamı mutlaka gidip keyifle yemek yediğimiz bir mekan servisi yemekleri çok iyi tavsiye ederizYiyecek: 5/5  |  Hizmet: 5/5  |  Atmosfer: 5/5"
+    },
+    {
+      "ratingPerson": "Muhammed Bağış",
+      "ratingPersonType": "5 yorum",
+      "ratingValue": 1,
+      "ratingContent": "Sevgililer günü için eşimle 4 gün önceden rezervasyon yapmamamıza rağmen, özellikle istediğimiz masayı başkalarına rezerv etmişlerdi. Hatalarına rağmen yapacak bişey yok dendi. Bahçede bi masa verdiler. Yemeği yedikten sonra kimse ne çay ne tatlı bişey sordu. Çay 2 defa garsonlardan istenmesine rağmen gelmedi. Bidaha tercih edilir mi tartışılır.Yiyecek: 2/5  |  Hizmet: 1/5  |  Atmosfer: 2/5"
+    },
+    {
+      "ratingPerson": "Bünyamin Çifci",
+      "ratingPersonType": "4 yorum",
+      "ratingValue": 5,
+      "ratingContent": "Harkanat için söylenecek çok şey var fakat gelip eşsiz lezzetleri tatmadan harika müzik seçimleri ve keyifli müzik eşliğinde personelin temiz titiz ve gayet şık servisiyle birlikte bu atmosferde bulunmanın ayrıcalığını yaşamak bir başka keyifliydi.Bu başarılı işletmenin bize değerimizin fazlasını hissettirmesine bir ayrı şükranlarımı sunarım. Değerli işletme müdürü Hüsnü beye salon şefi Hakan beye ve mükemmel lezzetli tattığım bir o kadarda karizma ve sempatik volkan beye ayrı teşekkürlerimi sunuyorum. Kalitenin tesadüf olmadığını ispatlamışlar. Harikasın Har Kanat 🙏👏Yiyecek: 5/5  |  Hizmet: 5/5  |  Atmosfer: 5/5"
+    },
+    {
+      "ratingPerson": "Berat Derelli",
+      "ratingPersonType": "6 yorum",
+      "ratingValue": 1,
+      "ratingContent": "Dış görünüşüne kapılıp geldiğimiz bir mekan. Garsonlar hesaba sürekli bir şeyler ekleme peşinde. Fiyatlar çok abartı, denize sıfır mekanda böyle hesap ödemezsiniz. Karşılama personelleri oldukça saygısız, lezzet orda düzey.Yiyecek: 3/5  |  Hizmet: 1/5  |  Atmosfer: 1/5"
+    },
+    {
+      "ratingPerson": "Ebru Günçaldı",
+      "ratingPersonType": "11 yorum",
+      "ratingValue": 2,
+      "ratingContent": "Ambiyansı dışında her şey çok kötüydü. Açıldığında bir iki sefer gitmiştim ve aşırı beğenmiştim.Yemekler mezeler o zaman harikaydı ama şimdi ise büyük hayal kırıklığı yaşadım. Her şey çok değişmiş daha iyiye gitmesi gerekirken daha da geriye gitmişler. Garsonlar ilgisiz, yemekler kötü bu sebeple kesinlikle tekrar gitmeyi düşünmüyorum.Yiyecek: 2/5  |  Hizmet: 2/5  |  Atmosfer: 5/5Park yeriYeterli park yeri varPark yeri seçenekleriÜcretli park yeri"
+    },
+    {
+      "ratingPerson": "Evren ERGENE",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Genel olarak Bahçeşehir mekanları kalite olarak yüksek olur ama burası onlarında daha üzerinde bir yer olmuş. Ailecek rahat bir ortamda yemek yiyebileceğiniz ve çok güzel bir çocuk oyun alanı olan bir mekan malzeme kalitesi yüksek hizmet hızlı ve güleryüzlü. Tekrar tekrar tercih edilecek bir mekanYiyecek: 5/5  |  Hizmet: 5/5  |  Atmosfer: 5/5"
+    },
+    {
+      "ratingPerson": "GAMZE MANİCİ",
+      "ratingPersonType": "1 yorum",
+      "ratingValue": 1,
+      "ratingContent": "Leş gibi bi yer saygıdan eksik  karşılama personelinin masanın rezervasyonu gelicek kalkın diyecek kadar kalitesizleştiği zaten çayımın bittiği kalkacağımın belli olduğu yenilenin saniyeler içinde boğaza dizildiği ,çıkarken iyi akşamlar bile denilmeyıp düşmani tavır sergilenen yerdir. Para verdiğime bin pişmanım umarım restoran sahipleri yorumumu okuduğunda çalışanlarını tekrar gozden geçirirYiyecek: 3/5  |  Hizmet: 1/5  |  Atmosfer: 1/5"
+    },
+    {
+      "ratingPerson": "Serkan Adanur",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 2,
+      "ratingContent": "6 kişiydik, net olarak yalansız :4 porsiyon kanat(2 tabak)kişi başı bir dilim lavaş arası kebap(beyti gibi bir ufak dilim)4 tek meze2 porsiyon yağlı kara (kişi başı bir adet)1 adet 70 lik göbek beylerbeyiKlasik meyve İkram...Hesap : 7.800 tl ödedim.Not: tanıdık yer...Yiyecek: 5/5  |  Hizmet: 5/5Önerilen yemeklerMezeler"
+    },
+    {
+      "ratingPerson": "Ezgi Kızıltan Selçuk",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Hizmet ve atmosfer konusunda tavsiye edebilirim, 10 kişi ve daha fazla sayıda gidildiğinde ek servis bedeli almaktalar. Mezelerini lezzetli buluyorum, kebaplarını ise fazla baharatlı bulduğum için keyifle yiyemedim.Yiyecek: 4/5  |  Hizmet: 5/5  |  Atmosfer: 5/5"
+    },
+    {
+      "ratingPerson": "Özge ŞAHİN",
+      "ratingPersonType": "10 yorum",
+      "ratingValue": 5,
+      "ratingContent": "Bahçeşehir’e çok yakışan bir mekân , her şey çok profesyonel . Yemekler deseniz nefis … Her özel günümüzde Harkanat’ı tercih ediyoruz ve tercih etmeye de devam edeceğiz :)Yiyecek: 5/5  |  Hizmet: 5/5  |  Atmosfer: 5/5"
+    },
+    {
+      "ratingPerson": "Sena A.",
+      "ratingPersonType": "7 yorum",
+      "ratingValue": 5,
+      "ratingContent": "Dekoru çok iyi, yemekleri çok lezzetliydi üstelik fiyat böyle bir ambiyansa göre gayet iyiydi. Tek sorunu garsonlara her şeyi iki kere üç kere söylemek durumunda kaldık bence bu duruma bir el atılmalı.Yiyecek: 5/5  |  Hizmet: 3/5  |  Atmosfer: 5/5"
+    },
+    {
+      "ratingPerson": "intours intours",
+      "ratingPersonType": "3 yorum",
+      "ratingValue": 5,
+      "ratingContent": "Mekana adım attığımız ilk andan itibaren güleryüzlü çalışanların verdiği kaliteli hizmet direk göze çarpıyor ve çok lezzetli yemekleri var özellikle her gittiğimizde içeride oturuyoruz dekoruna bayıldık ve aile içinde yemek yiyormuşuz gibi hissettiren şef servet beyede kaliteli hizmetinden ve güler yüzünden dolayı çok teşekkür ediyoruz her dakikası çok güzel bir akşam yemeğiydiYiyecek: 5/5  |  Hizmet: 5/5  |  Atmosfer: 5/5Önerilen yemeklerLahmacun, Girit Ezme, Mezeler"
+    },
+    {
+      "ratingPerson": "Mca Organizasyon",
+      "ratingPersonType": "2 yorum",
+      "ratingValue": 5,
+      "ratingContent": "Mezelerinde başta benim için mutebbel ardından kırmızı et yada beyaz et farketmeksizin her lezzetiyle rakida beylerbeyi göbeğin ve ve ve içten guleryuzlu tüm ekip çalışanlarıyla gram düşünmeden gidilebilecek tek adres👏Kalite tesadüf değil sözünü tasdiklenecek tek mekan👏Müdavimi olacağınız yer diyebilirim."
+    },
+    {
+      "ratingPerson": "Niltuğ Tuner",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Güleryuzlu ekibi, kaliteli servisi , gurme lezzetleri, geniş yaşam alanı ile ailecek ya da çift olarak ya da eş le dostla , veya kurumsal toplantılar için harika bir mekan .. ✨👌 Tuvaletleri den , bahçesine, masa ustlerinden , yeme - içme takımlarına kadar özenilmiş, ince düşünülmüş, takdiri hakeden bir mekan, et sevenler muhakkak deneyin💃🍷🔥🫶😉Yiyecek: 5/5  |  Hizmet: 5/5  |  Atmosfer: 5/5"
+    },
+    {
+      "ratingPerson": "Y D",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 4,
+      "ratingContent": "Mekan güzel ortam ve ambiyansı da beğendim. Mezeleri de fena değil. Ancak tavuk kanattaki sosu biraz baskın buldum dolayısıyla beğendiğimi söyleyemem. Fiyatlar gölet ortalamalarında. Çalışanlar ilgili ve güler yüzlüydü. Mekan yeni açıldığından şuan için ortalama bir deneyimdi diyebilirim."
+    },
+    {
+      "ratingPerson": "nalan karaokcu",
+      "ratingPersonType": "5 yorum",
+      "ratingValue": 4,
+      "ratingContent": "O kadar lüks mekan, çok iyi bir kadro, hizmet güzel ama klozet kapağı kırık, hijyen makinesi bozuk. Ayrıca gece midemi bozdum. Tavuk kanat yedim.Yiyecek: 3/5  |  Hizmet: 5/5  |  Atmosfer: 4/5Önerilen yemeklerLahmacun"
+    },
+    {
+      "ratingPerson": "Dilek Semiz",
+      "ratingPersonType": "Yerel Rehber",
+      "ratingValue": 5,
+      "ratingContent": "Şimdilik Bahçeşehirde ki en iyi restaurant lezzet , sunum , ilgi , kalite , atmosfer , tercih eden kesim vb. nedenlerden dolayı ama en çok ta ülkemizde kendi ülkesi gibi rahatça yaşayan malum kesmin olmadığı bir restaurant o yüzden bizim ailece tercihimiz dır. Fiyatlara gelince lezzetine göre birçok yerle kıyaslanamayacak seviyede bence lezzetsiz menüleri olan başka başka yerlere daha fazlasını ödemişliğimiz vardır, burada hiç değilse damaklarımız şölen yapıyor , inşallah böyle devam eder , mutfaktan servise kadar emeği geçen tüm ekibi kutluyorumYiyecek: 5/5  |  Hizmet: 4/5  |  Atmosfer: 4/5Önerilen yemeklerKöfte, Lahmacun, Girit Ezme, Mezeler"
+    }
+  ]
+}

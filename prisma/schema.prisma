@@ -1,0 +1,66 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Restaurant {
+  id                    String    @id @default(cuid())
+  //common fields in both databases
+  detailedTitle         String?
+  restaurantTitle       String?
+  ratingOverall         String?
+  ratingOverallNumber   String?
+  restaurantWebsiteLink String?
+  images                images[]
+  reviews               reviews[]
+    locationAddress       String?
+
+
+  restaurantLat Float?
+  restaurantLng Float?
+
+  isTripAdvisorVerified Boolean?
+  priceSelector         String?
+  categoryList          categoryList[]
+  restaurantEmail       String?
+  telephoneNumber       String?
+
+    openDates openDates[]
+}
+
+model openDates {
+  id           String     @id @default(cuid())
+  day          String?
+  hours        String?
+  restaurantId String
+  restaurant   Restaurant @relation(fields: [restaurantId], references: [id])
+}
+
+
+model images {
+  id           String     @id @default(cuid())
+  url          String?
+  restaurantId String
+  restaurant   Restaurant @relation(fields: [restaurantId], references: [id])
+}
+
+model reviews {
+  id               String     @id @default(cuid())
+  ratingPerson     String?
+  ratingPersonType String?
+  ratingValue      Int?
+  ratingContent    String?    @db.LongText
+  restaurantId     String
+  restaurant       Restaurant @relation(fields: [restaurantId], references: [id])
+}
+
+model categoryList {
+  id           String     @id @default(cuid())
+  category     String?
+  restaurantId String
+  restaurant   Restaurant @relation(fields: [restaurantId], references: [id])
+}
